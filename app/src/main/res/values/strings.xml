@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InspiringQuotesApp</string>
+    <string name="quote_format">%1$s\n- %2$s</string>
+    <string name="quote_of_the_day">Inspiring Quote of the Day</string>
+    <string name="refresh_quote">Refresh Quote</string>
+    <string name="share_quote">Share Quote</string>
+    <string name="share_via">Share via</string>
+    <string name="title_thought_for_the_day">Thought for the Day</string>
+</resources>
+
+
+

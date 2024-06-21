@@ -1,0 +1,13 @@
+<resources>
+    <!-- Define color palette -->
+    <color name="colorPrimary">#CFC672</color> <!-- Light Yellow -->
+    <color name="colorPrimaryDark">#080865</color> <!-- Dark Blue -->
+    <color name="colorAccent">#AD11E6</color> <!-- White -->
+
+    <!-- Additional colors -->
+    <color name="background_color">#EFE47F</color> <!-- Light Yellow background -->
+    <color name="text_color">#111167</color> <!-- Dark Blue text -->
+    <color name="button_background_color">#E91E63</color> <!-- Dark Blue button background -->
+    <color name="button_text_color">#FFFFFF</color> <!-- White button text -->
+</resources>
+
